@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 const Wrapper = styled.nav`
   background: var(--white);
@@ -39,6 +39,7 @@ const Wrapper = styled.nav`
       flex-direction: row;
       justify-content: space-between;
       align-items: center;
+      padding: 1.5rem 2rem;
     }
     .nav-links {
       flex-direction: row;
